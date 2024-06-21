@@ -1,6 +1,5 @@
-// import reactLogo from './assets/react.svg'
 import aboba from '/aboba.png'
-import './App.css'
+import '../styles/App.css'
 
 function App() {
   return (
