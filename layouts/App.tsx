@@ -7,7 +7,7 @@ function App() {
       <a href="" target="_blank">
         <img src={aboba} className="lumi lumi-spin react" alt="React logo" />
       </a>
-      <h1>lumi ah :3</h1>
+      <h1 className="text-4xl mt-4">lumi ah :3</h1>
     </div>
   )
 }
