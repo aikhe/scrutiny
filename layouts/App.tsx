@@ -3,7 +3,7 @@ import '../styles/App.css'
 
 function App() {
   return (
-    <div className="container">
+    <div className="flex w-full flex-col h-[100svh] items-center justify-center">
       <a href="" target="_blank">
         <img src={aboba} className="lumi lumi-spin react" alt="React logo" />
       </a>
