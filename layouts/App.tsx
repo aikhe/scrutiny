@@ -1,5 +1,5 @@
-import { motion } from "framer-motion"
-import aboba from '/aboba.png'
+import { motion } from "framer-motion";
+import aboba from "/aboba.png";
 
 function App() {
   return (
@@ -17,8 +17,8 @@ function App() {
         className="size-24">
         <img src={aboba} alt="Spinning Lumi" />
       </motion.div>
-
       <h1 className="text-4xl mt-4">lumi ah :3</h1>
+      <p>testing things out...</p>
     </div>
   )
 }
